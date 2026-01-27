@@ -1,4 +1,4 @@
 1.2.0
 https://drive.google.com/drive/folders/1Y0h9G0HgdEK0MwWh1JVOpfzFPW2jA7y5?usp=sharing
 https://www.dmix.io.vn/
-Fix lỗi ẩn lời giải (chế độ bảng) và Bổ sung "Phần 0" chứa nhiều nhóm câu hỏi.
+Fix lỗi ẩn lời giải (chế độ bảng) \n Bổ sung "Phần 0" chứa nhiều nhóm câu hỏi.
