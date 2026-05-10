@@ -1,4 +1,4 @@
 1.4.0
 https://drive.google.com/drive/folders/1Y0h9G0HgdEK0MwWh1JVOpfzFPW2jA7y5?usp=sharing
 https://www.dmix.io.vn/
-Cho phép rút ngẫu nhiên một số câu hỏi từ KHO CÂU HỎI để trộn, mục đích để tạo các đề có sự khác nhau nhiều hơn. </br> Mong nhận được ý kiến đóng góp từ thầy cô để hoàn thiện phiên bản 1.5.0 (ra mắt tháng 08/2026, thầy cô đón chờ cập nhật nhé).
+Cho phép rút ngẫu nhiên một số câu hỏi từ KHO CÂU HỎI để trộn, mục đích để tạo các đề có sự khác nhau nhiều hơn. <br> Mong nhận được ý kiến đóng góp từ thầy cô để hoàn thiện phiên bản 1.5.0 (ra mắt tháng 08/2026, thầy cô đón chờ cập nhật nhé).
